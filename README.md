@@ -7,7 +7,7 @@ A Instagram photo tool that supports concurrency download. This tool help you to
 Install
 --------------
 
-    go get -u -x github.com/kkdai/goInstagram
+    go get -u -x github.com/kkdai/goInstagramDownloader
 
 Note, you need go to [Instagram developer page](https://instagram.com/developer/clients/manage/) to get latest token and update in environment variables
 
