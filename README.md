@@ -68,6 +68,12 @@ Advertising
 
 If you want to browse facebook page on your iPhone, why not check my App here :p [粉絲相簿](https://itunes.apple.com/tw/app/fen-si-xiang-bu/id839324997?l=zh&mt=8)
 
+Project52
+---------------
+
+It is one of my [project 52](https://github.com/kkdai/project52).
+
+
 License
 ---------------
 
