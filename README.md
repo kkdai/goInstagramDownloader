@@ -16,7 +16,7 @@ Note, you need go to [Instagram developer page](https://instagram.com/developer/
 Usage
 ---------------------
 
-    goInstagram [options] 
+    goInstagramDownloader [options] 
 
 All the photos will download to `USERS/Pictures/goInstagram`.
 
@@ -32,7 +32,7 @@ Examples
 
 Download all photos from LeBron James Instagram Photos with 10 workers.
 
-  goInstagram -n=kingjames -c=10
+  goInstagramDownloader -n=kingjames -c=10
 
 
 Snapshot
