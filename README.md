@@ -1,6 +1,6 @@
 goInstagram
 ======================
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/toomore/gogrs/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/goInstagram/master/LICENSE)  [![GoDoc](https://godoc.org/github.com/kkdai/goInstagram?status.svg)](https://godoc.org/github.com/kkdai/youtube)  [![Build Status](https://travis-ci.org/kkdai/goInstagram.svg?branch=master)](https://travis-ci.org/kkdai/goInstagram) [![](https://goreportcard.com/badge/github.com/kkdai/goInstagram)](https://goreportcard.com/badge/github.com/kkdai/goInstagram)
 
 A Instagram photo tool that supports concurrency download. This tool help you to download those photos for your backup, all the photos still own by original creator.
 

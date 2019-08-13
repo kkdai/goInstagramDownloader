@@ -71,7 +71,7 @@ func DownloadWorker(destDir string, linkChan chan string, wg *sync.WaitGroup) {
 			imgInfo := fmt.Sprintf("pic%04d", GetFileIndex())
 			out, err := os.Create(destDir + "/" + imgInfo + imageType)
 			if err != nil {
-				log.Println("os.Create\nerror: %s", err)
+				log.Printf("os.Create\nerror: %s", err)
 				continue
 			}
 			defer out.Close()
